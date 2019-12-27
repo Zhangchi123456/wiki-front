@@ -1,0 +1,21 @@
+{
+  "defaultSeverity": "none",
+  
+  "rules": {
+    "interface-name": [
+      false,
+      "never-prefix"
+    ],
+    "no-empty-interface": false,
+    "semicolon": [
+      false,
+      "never"
+    ],
+    "quotemark": [
+      false,
+      "single",
+      "jsx-double"
+    ],
+    "ordered-imports": false
+  }
+}
